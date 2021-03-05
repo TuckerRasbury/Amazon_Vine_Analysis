@@ -14,15 +14,11 @@ Explain the purpose of this analysis.
 
   ##### _non-Vine_
   
-- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-  ##### _Vine_
-
-  ##### _non-Vine_
+- What percentage of Vine reviews were 5 stars (top)? What percentage of non-Vine reviews were 5 stars (bottom)?
+ [](percentage_of_5star.png)
   
-- State if there is any positivity bias for reviews in the Vine program. Use the results of the analysis to support the statement. Then, provide one additional analysis that could be done with the dataset to support the statement.
-  ##### _Vine_
+- State if there is any positivity bias for reviews in the Vine program. Use the results of the analysis to support the statement. 
 
-  ##### _non-Vine_
   
 
 ## Summary
