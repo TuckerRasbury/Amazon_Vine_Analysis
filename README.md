@@ -4,6 +4,8 @@
 I picked a dataset comprised of reviews from Amazon and used PySpark to perform the ETL process for extracting the dataset, transforming the data, and performing some analysis. Finally, I used PySpark and postgres to determine if there is any bias toward favorable reviews from Vine members in the dataset. Finally, I provided a summary of the analysis for Jennifer to submit to the SellBy stakeholders.
 
 ## Results 
+The number of vine or nonvine reviews represents the number of paid or unpaid program reviews, respectively. With that in mind, please see the below.
+
 - How many Vine reviews (top) and non-Vine (bottom) reviews were there?
  ![](count_of_5star.png)
   
